@@ -29,7 +29,7 @@ Não existe um pré-requisito até porque a intenção da série de artigos é j
 
 Falaremos de cada item acima durante a série de artigos. Porém, sinta-se à vontade em realizar os cursos acima! 
 
-## Agenda de Exemplos 📕
+## Exemplos Desenvolvidos 💻
 
 | Código Exemplo | Link do artigo |
 |---|---|
