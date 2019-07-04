@@ -1,2 +1,5 @@
-## Exemplo 1
+# Exemplo 1
+
+[![bit-azure.png](https://i.postimg.cc/tgBHyG6t/bit-azure.png)](https://postimg.cc/DW4NdDB8)
+
 
