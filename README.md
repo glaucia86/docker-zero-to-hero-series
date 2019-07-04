@@ -33,7 +33,7 @@ Falaremos de cada item acima durante a série de artigos. Porém, sinta-se à vo
 
 | Código Exemplo | Link do artigo |
 |---|---|
-| **[exemplo-1](exemplo-1/README.md)** | **[Introdução a Docker - Parte I]()** |
+| **[exemplo-1](exemplo-1/exemplo-1.md)** | **[Introdução a Docker - Parte I]()** |
 | **[exemplo-2]()** | **Em Breve** |
 | **[exemplo-3]()** | **Em Breve** |
 | **[exemplo-4]()** | **Em Breve** |
