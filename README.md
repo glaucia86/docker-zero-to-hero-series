@@ -29,10 +29,18 @@ Não existe um pré-requisito até porque a intenção da série de artigos é j
 
 Falaremos de cada item acima durante a série de artigos. Porém, sinta-se à vontade em realizar os cursos acima! 
 
+## Agenda de Exemplos
+
+| Código Exemplo | Link do artigo |
+|---|---|
+| **[exemplo-1](exemplo1/README.md)** | **[Introdução a Docker - Parte I]()** |
+|  |  |
+|  |  |
+|  |  |
+
 ## Tenho Dúvidas... O que Faço?! ❓
 
 Caso tenham dúvidas aos códigos desenvolvidos durante a série de artigos do Docker, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/docker-zero-to-hero-series/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
-
 
 **(documentação em desenvolvimento)**
 
