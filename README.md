@@ -31,13 +31,27 @@ Falaremos de cada item acima durante a série de artigos. Porém, sinta-se à vo
 
 ## Exemplos Desenvolvidos 💻
 
-| Código Exemplo | Link do artigo |
-|---|---|
-| **[exemplo-1](exemplo-1/README.md)** | **[Introdução a Docker - Parte I]()** |
-| **[exemplo-2](exemplo-2/README.md)** | **Em Breve** |
-| **[exemplo-3](exemplo-3/README.md)** | **Em Breve** |
-| **[exemplo-4](exemplo-4/README.md)** | **Em Breve** |
-| **[exemplo-5](exemplo-5/README.md)** | **Em Breve** |
+| Código Exemplo | Link do artigo | Vídeo Aula |
+|---|---|---|
+| - sem exemplo de código - | **[Introdução a Docker - Parte I]()** | **[Aula 01 - Em Breve]()** |
+| **[exemplo-2](exemplo-1/README.md)** | **[Introdução a Docker - Desenvolvendo de Aplicação Node.js & Express.js com Docker]()** | **[Aula 02 - Em Breve]()** |
+| **[exemplo-3](exemplo-3/README.md)** | **Em Breve** | **[Aula 03 - Em Breve]()** |
+| **[exemplo-4](exemplo-4/README.md)** | **Em Breve** | **[Aula 04 - Em Breve]()** |
+| **[exemplo-5](exemplo-5/README.md)** | **Em Breve** | **[Aula 05 - Em Breve]()** |
+
+## Links & Recursos Importantes ❗️
+
+Como dito durante os artigos, sempre estaremos citando links e recursos importantes que direcionarão para: documentações, cursos gratuitos, livros e conteúdos relacionados a Docker & Contêineres. Abaixo, segue uma lista desses recursos, que são considerados leituras, cursos ou livros recomendados:
+
+- ✅ **[]()**
+- ✅ **[]()**
+- ✅ **[]()**
+- ✅ **[]()**
+- ✅ **[]()**
+- ✅ **[]()**
+- ✅ **[]()**
+- ✅ **[]()**
+- ✅ **[]()**
 
 ## Tenho Dúvidas... O que Faço?! ❓
 
