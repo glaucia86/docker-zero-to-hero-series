@@ -34,7 +34,7 @@ Falaremos de cada item acima durante a série de artigos. Porém, sinta-se à vo
 | Código Exemplo | Link do artigo | Vídeo Aula |
 |---|---|---|
 | - sem exemplo de código - | **[Introdução a Docker - Conceitos Básicos]()** | **[Aula 01 - Em Breve]()** |
-| **[exemplo-2](exemplo-1/README.md)** | **[Introdução a Docker - Desenvolvendo de Aplicação Node.js & Express.js com Docker]()** | **[Aula 02 - Em Breve]()** |
+| **[exemplo-2](exemplo-1/README.md)** | **[Introdução a Docker - Desenvolvendo Aplicação Node.js & Express.js com Docker]()** | **[Aula 02 - Em Breve]()** |
 | **[exemplo-3](exemplo-3/README.md)** | **Em Breve** | **[Aula 03 - Em Breve]()** |
 | **[exemplo-4](exemplo-4/README.md)** | **Em Breve** | **[Aula 04 - Em Breve]()** |
 | **[exemplo-5](exemplo-5/README.md)** | **Em Breve** | **[Aula 05 - Em Breve]()** |
