@@ -43,15 +43,12 @@ Falaremos de cada item acima durante a série de artigos. Porém, sinta-se à vo
 
 Como dito durante os artigos, sempre estaremos citando links e recursos importantes que direcionarão para: documentações, cursos gratuitos, livros e conteúdos relacionados a Docker & Contêineres. Abaixo, segue uma lista desses recursos, que são considerados leituras, cursos ou livros recomendados:
 
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
+- ✅ **[Docker no Azure](https://docs.microsoft.com/pt-br/azure/docker/?WT.mc_id=dockerzerotohero-github-gllemos)**
+- ✅ **[Executando a CLI do Azure em um contêiner do Docker](https://docs.microsoft.com/cli/azure/run-azure-cli-docker?view=azure-cli-latest&WT.mc_id=dockerzerotohero-github-gllemos)**
+- ✅ **[Implante o acelerador de solução de Monitoramento Remoto localmente - Docker](https://docs.microsoft.com/pt-br/azure/iot-accelerators/iot-accelerators-remote-monitoring-deploy-local-docker?WT.mc_id=dockerzerotohero-github-gllemos)**
+- ✅ **[Implantando uma instância de contêiner no Azure usando a CLI do Azure](https://docs.microsoft.com/azure/container-instances/container-instances-quickstart?WT.mc_id=dockerzerotohero-github-gllemos)**
+- ✅ **[E-book Grátis: Containerized Docker Application Lifecycle with Microsoft Platform and Tools](https://azure.microsoft.com/resources/containerized-docker-application-lifecycle-with-microsoft-platform-and-tools/?WT.mc_id=dockerzerotohero-github-gllemos)**
+- ✅ **[E-book Grátis: Containerize Your Apps with Docker and Kubernetes](https://azure.microsoft.com/resources/containerize-your-apps-with-docker-and-kubernetes/?WT.mc_id=dockerzerotohero-github-gllemos)**
 
 ## Tenho Dúvidas... O que Faço?! ❓
 
