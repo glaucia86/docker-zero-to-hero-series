@@ -7,10 +7,10 @@ Repositório responsável pelos exemplos de códigos realizados durante a série
 ## Recursos Utilizados 🚀
 
 * **[Download Docker Community Edition CE](https://www.docker.com/community-edition)**
-* **[Conta no Azure - Grátis](https://azure.microsoft.com/pt-br/free/?wt.mc_id=dockerzerotohero-github-chnoring)**
+* **[Conta no Azure - Grátis](https://azure.microsoft.com/pt-br/free/?wt.mc_id=dockerzerotohero-github-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=dockerzerotohero-github-gllemos)**
-* **[Extensão Docker - Vs Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&WT.mc_id=dockerzerotohero-github-chnoring)**
+* **[Extensão Docker - Vs Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&WT.mc_id=dockerzerotohero-github-gllemos)**
 * **[Extensão Azure Tools - Vs Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack&WT.mc_id=dockerzerotohero-github-gllemos)**
 
 ## Conta - Azure for Students ⭐️
@@ -22,9 +22,9 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 Não existe um pré-requisito até porque a intenção da série de artigos é justamente essa: ensinar conceitos desde básicos à avançados de Docker. Porém, caso deseja complementar os seus estudos há cursos gratuitos que poderão te auxiliar no decorrer da série. São eles:
 
 * **[Criando um aplicativo Web em contêiner com o Docker](https://docs.microsoft.com/pt-br/learn/modules/intro-to-containers/?WT.mc_id=dockerzerotohero-github-gllemos)**
-* **[Implantando e executando um aplicativo Web conteinerizado com o Serviço de Aplicativo do Azure](https://docs.microsoft.com/pt-br/learn/modules/deploy-run-container-app-service/?WT.mc_id=dockerzerotohero-github-chnoring)**
+* **[Implantando e executando um aplicativo Web conteinerizado com o Serviço de Aplicativo do Azure](https://docs.microsoft.com/pt-br/learn/modules/deploy-run-container-app-service/?WT.mc_id=dockerzerotohero-github-gllemos)**
 * **[Aprendizado profundo interativo com o Jupyter, o Docker e o PyTorch na Máquina Virtual de Ciência de Dados](https://docs.microsoft.com/pt-br/learn/modules/interactive-deep-learning/?WT.mc_id=dockerzerotohero-github-gllemos)**
-* **[Criando e armazenando imagens de contêiner com o Registro de Contêiner do Azure](https://docs.microsoft.com/pt-br/learn/modules/build-and-store-container-images/?WT.mc_id=dockerzerotohero-github-chnoring)**
+* **[Criando e armazenando imagens de contêiner com o Registro de Contêiner do Azure](https://docs.microsoft.com/pt-br/learn/modules/build-and-store-container-images/?WT.mc_id=dockerzerotohero-github-gllemos)**
 * **[Executando contêineres do Docker com Instâncias de Contêiner do Azure](https://docs.microsoft.com/pt-br/learn/modules/run-docker-with-azure-container-instances/?WT.mc_id=dockerzerotohero-github-gllemos)**
 
 Falaremos de cada item acima durante a série de artigos. Porém, sinta-se à vontade em realizar os cursos acima! 
@@ -34,7 +34,7 @@ Falaremos de cada item acima durante a série de artigos. Porém, sinta-se à vo
 | Código Exemplo | Link do artigo | Vídeo Aula |
 |---|---|---|
 | - sem exemplo de código - | **[Introdução a Docker - Conceitos Básicos]()** | **[Aula 01 - Em Breve]()** |
-| **[exemplo-2](exemplo-1/README.md)** | **[Introdução a Docker - Desenvolvendo de Aplicação Node.js & Express.js com Docker]()** | **[Aula 02 - Em Breve]()** |
+| **[exemplo-2](exemplo-1/README.md)** | **[Introdução a Docker - Desenvolvendo Aplicação Node.js & Express.js com Docker]()** | **[Aula 02 - Em Breve]()** |
 | **[exemplo-3](exemplo-3/README.md)** | **Em Breve** | **[Aula 03 - Em Breve]()** |
 | **[exemplo-4](exemplo-4/README.md)** | **Em Breve** | **[Aula 04 - Em Breve]()** |
 | **[exemplo-5](exemplo-5/README.md)** | **Em Breve** | **[Aula 05 - Em Breve]()** |
