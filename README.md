@@ -1,8 +1,8 @@
-# Exemplos de Códigos: Aprenda Docker - Zero to Hero
+# Exemplos de Códigos: Aprenda Docker - Zero to Hero (Em Desenvolvimento)
 
 [![docker.png](https://i.postimg.cc/7LZsn8Tc/docker.png)](https://postimg.cc/VJ2WzhgB)
 
-Repositório responsável pelos exemplos de códigos realizados durante a série de artigos: **[Aprenda Docker - Zero to Hero]()**.
+Repositório responsável pelos exemplos de códigos realizados durante a série de artigos: **[Aprenda Docker - Zero to Hero](https://dev.to/azure/introducao-a-docker-conceitos-basicos-4g19)**.
 
 ## Recursos Utilizados 🚀
 
@@ -15,7 +15,7 @@ Repositório responsável pelos exemplos de códigos realizados durante a série
 
 ## Conta - Azure for Students ⭐️
 
-Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=dockerzerotohero-github-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=dockerzerotohero-github-chnoring)**
+Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=dockerzerotohero-github-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=dockerzerotohero-github-gllemos)**
 
 ## Pré-requisitos 📌
 
